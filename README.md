@@ -1,10 +1,11 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Lab | String Operations and Bag of Words
+# Lab | Intro to Python with Bag of Words
 
 ## Introduction
 
-In this lab, we will learn how to manipulate strings. There are two challenges: 1) to practice how to manipulate strings, and 2) to use string manipulation techniques to create Bag of Words (BoW). BoW is an essential technique in Natural Language Processing.
+In this lab, we will practice a few fundamental Python concepts. We will use as motivation the creation of something called a Bag of Words (BoW) model. BoW is an essential technique in Natural Language Processing which we will cover in Module 3. For the time being, **you don't need to fully understand how a Bag of Words is used or even what it is in detail**. The exercise serves for you to train for loops and lists and strings. The Natural Language Processing stuff is just the backdrop, you'll have plenty of time to delve into that.
+ 
 
 ### Getting Started
 
@@ -12,11 +13,11 @@ In your Terminal, navigate into the directory `your-code` of this lab that conta
 
 ## Deliverables
 
-`challenge-1.ipynb` and `challenge-2.ipynb` with your responses.
+`main.ipynb` with your responses.
 
 ## Submission
 
-Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
+Upon completion, add your deliverables to git. Then git commit, push your branch to the remote and make a merge request as taught in class.
 
 ## Resources
 
